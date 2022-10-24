@@ -1,6 +1,6 @@
 - Olá me chamo Paulo César, sou atualmente estudante de
-desenvolvimento de sistemas  e estou em busca de aprender
-todos os dias e me aperfeiçoar.
+desenvolvimento de sistemas,  e estou em busca de aprender
+todos os dias me aperfeiçoando.
 
 <!---
 PauloCesarDS/PauloCesarDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
